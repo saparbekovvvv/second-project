@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "IBM Plex Mono";
+}
+.container {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+#hero {
+  height: 117px;
+  background: #f7f7f7;
+}
+.content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  margin-top: 38px;
+}
+.content h1 {
+  color: #252525;
+  font-size: 30px;
+  font-weight: 700;
+  padding-right: 305px;
+}
+.content a {
+  padding-right: 49px;
+  color: #303030;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.content button {
+  margin-left: 260px;
+  border-radius: 5px;
+  background: #ff5d24;
+  width: 126px;
+  height: 48px;
+  border: none;
+  font-size: 16px;
+  color: #fff;
+  cursor: pointer;
+}
+.txt {
+  color: #252525;
+  font-size: 40px;
+  font-weight: 700;
+  width: 700px;
+  margin-top: 62px;
+}
+.txt span {
+  color: #ff5d24;
+}
+.txt2 {
+  color: #252525;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  width: 520px;
+  margin-top: -100px;
+  margin-left: 700px;
+}
+.image {
+  margin-top: 49px;
+}
+.img2 {
+  margin-top: -220px;
+  margin-left: 75px;
+}
+.img3 {
+  margin-top: -240px;
+  margin-left: 175px;
+  width: 50px;
+}
+.ex {
+  margin-top: -90px;
+  margin-left: 258px;
+  width: 50px;
+  cursor: pointer;
+}
+.img4 {
+  margin-top: -600px;
+  margin-left: 880px;
+}
+.img5 {
+  margin-top: -240px;
+  margin-left: 970px;
+}
+.ex2 {
+  margin-left: 1065px;
+  margin-top: -85px;
+}
+.vector {
+  margin-left: 1110px;
+  margin-top: 160px;
+}
+.t1 {
+  margin-top: -18px;
+  margin-left: 85px;
+  z-index: -1;
+  position: absolute;
+}
+.number {
+  font-size: 50px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  margin-left: -70px;
+  margin-top: -80px;
+  gap: 100px;
+}
+.number span {
+  color: #ff5d24;
+}
+.resource {
+  display: flex;
+  width: 400px;
+  justify-content: center;
+  margin-left: 500px;
+  gap: 60px;
+}
+.line-1 {
+  margin-top: -75px;
+  margin-left: 625px;
+  display: flex;
+  gap: 155px;
+}
+#about {
+  margin-top: 220px;
+}
+.gr {
+  width: 100px;
+}
+.about {
+  display: flex;
+  position: absolute;
+  margin-left: 700px;
+  flex-direction: column;
+  margin-top: -480px;
+  gap: 44px;
+}
+.about button {
+  width: 149px;
+  height: 48px;
+  color: #fff;
+  font-size: 14px;
+  background: #ff5d24;
+  border: none;
+}
+.bg-a {
+  margin-top: -250px;
+  margin-left: 40px;
+  z-index: -1;
+  position: absolute;
+}
+#our-couses {
+  margin-top: 180px;
+}
+.text-img {
+  margin-left: 80px;
+  margin-top: 40px;
+}
+.service-a {
+  margin-left: 1000px;
+  margin-top: -70px;
+}
+.img-bg {
+  display: flex;
+  margin-left: 20px;
+}
+.im2 {
+  margin-left: -90px;
+}
+.im3 {
+  margin-left: -90px;
+}
+.rec-bg {
+  margin-top: -440px;
+  margin-left: 120px;
+  display: flex;
+  gap: 346px;
+}
+.img-resource1 {
+  margin-top: -65px;
+  display: flex;
+  margin-left: 145px;
+  gap: 388px;
+}
+.pure {
+  margin-top: 50px;
+  margin-left: 120px;
+  display: flex;
+  gap: 300px;
+}
+.Education {
+  margin-left: -56px;
+}
+.simple {
+  margin-left: 119px;
+  margin-top: 30px;
+  display: flex;
+  gap: 156px;
+}
+.read-more {
+  margin-left: 119px;
+  display: flex;
+  gap: 369px;
+  margin-top: 45px;
+}
